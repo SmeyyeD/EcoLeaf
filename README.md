@@ -1,2 +1,0 @@
-# EcoLeaf
-Çevre dostu
